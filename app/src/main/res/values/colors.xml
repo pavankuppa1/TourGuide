@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A3128</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_tourist_places">#FD8E09</color>
+    <color name="category_restaurants">#379237</color>
+    <color name="category_temples">#8800A0</color>
+    <color name="category_malls">#16AFCA</color>
+</resources>
